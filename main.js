@@ -1,6 +1,6 @@
 const express = require("express")
 const mg = require("mongoose")
-const PORT = 8080
+const PORT = 8000 //new server
 
 app = express()
 
